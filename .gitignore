@@ -1,5 +1,6 @@
 tmp/**
 *.tmp
+**/tmp.py
 .pdm-python
 
 # Created by https://www.toptal.com/developers/gitignore/api/node,yarn,linux,macos,python,windows,terraform,pycharm+all,jupyternotebooks,visualstudiocode,venv
